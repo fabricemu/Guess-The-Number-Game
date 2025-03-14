@@ -8,8 +8,7 @@ Welcome to the **Graphical Number Guessing Game**! This project is a pygame-powe
 
 ```
 Guess-The-Number-Game/
-│── graphical/          # GUI-based game using pygame
-│   ├── guess_game_gui.py  # Graphical version
+│── main.py  # Graphical version
 │── README.md           # Project documentation
 │── requirements.txt    # Dependencies list (pygame)
 ```
@@ -35,7 +34,7 @@ pip install pygame
 ```
 Then, run the graphical game:
 ```sh
-python graphical/guess_game_gui.py
+python main.py
 ```
 
 ---
