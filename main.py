@@ -24,7 +24,7 @@ secret_number = random.randint(1, 100)
 input_text = ""
 message = "Guess a number (1-100)"
 running = True
-attempts=0
+attempts = 0
 
 while running:
     screen.fill(BLUE)
